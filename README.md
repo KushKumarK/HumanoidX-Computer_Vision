@@ -1,3 +1,4 @@
+<img src = "https://user-images.githubusercontent.com/91371411/216213298-31d5517e-933c-481b-ad10-9756189ff59f.png" width = "100" height = "100"></img>
 # HumanoidX Computer Vision Workshop
 
 ## HumanoidX Computer Vision Workshop Phase 1
