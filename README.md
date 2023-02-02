@@ -44,3 +44,4 @@
   - Run python in terminal/ open python interpreter
   - Type `import cvzone` and press enter
   - If no error comes then cvzone module is successfully installed
+## Check the Drive link given in the txt file in the files section
